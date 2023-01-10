@@ -98,9 +98,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: jiaming-robot-learning/blog-comments             # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo_id: R_kgDOIwApxA
+    category: Announcements
+    category_id: DIC_kwDOIwApxM4CTgIF
     mapping:           # optional, default to 'pathname'
     input_position:    # optional, default to 'bottom'
     lang:              # optional, default to the value of `site.lang`
