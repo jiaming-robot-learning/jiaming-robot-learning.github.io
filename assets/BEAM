@@ -1,11 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T13:50:08.838Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.8.3" etag="5L6Bh1kxPeQCBVgJIGaj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T14:20:14.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="4uXRWYzfO2E2SBJN_t4i" type="github">
   <diagram id="17beR5DJLYCG3YU8Y-Z0">
-    <mxGraphModel dx="794" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3358" dy="1354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NAGHmgVynMGooyAGI-wv-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;flipH=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="110" y="50" width="30" height="280" as="geometry" />
+        <mxCell id="NAGHmgVynMGooyAGI-wv-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;flipH=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="210" y="300" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-810" y="170" width="430" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=cross-hatch;curveFitting=1;sketchStyle=rough;strokeWidth=2;fillColor=#95C5FC;arcSize=0;size=130;strokeColor=#6c8ebf;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-15">
+          <mxGeometry width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=solid;curveFitting=1;sketchStyle=rough;strokeWidth=2;fillColor=#95C5FC;arcSize=0;size=130;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-15">
+          <mxGeometry width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=solid;curveFitting=1;sketchStyle=rough;strokeWidth=2;fillColor=#95C5FC;arcSize=0;size=130;strokeColor=#6c8ebf;opacity=60;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-15">
+          <mxGeometry x="10" y="20" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-13" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=solid;curveFitting=1;sketchStyle=rough;strokeWidth=2;fillColor=#95C5FC;arcSize=0;size=130;strokeColor=#6c8ebf;opacity=60;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-15">
+          <mxGeometry x="20" y="40" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-14" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=solid;curveFitting=1;sketchStyle=rough;strokeWidth=2;fillColor=#95C5FC;arcSize=0;size=130;strokeColor=#6c8ebf;opacity=60;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-15">
+          <mxGeometry x="30" y="60" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-19" value="" style="group;rotation=25;" vertex="1" connectable="0" parent="0jhUq3wZA6vBDmHmhF1G-15">
+          <mxGeometry x="160" y="60" width="110" height="109.34" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-17" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dparallelogram%3Bperimeter%3DparallelogramPerimeter%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfixedSize%3D1%3Brounded%3D1%3Bshadow%3D0%3Bglass%3D0%3Bsketch%3D1%3BfillWeight%3D1%3BhachureGap%3D15%3BhachureAngle%3D0%3Bjiggle%3D0%3BfillStyle%3Dsolid%3BcurveFitting%3D1%3BsketchStyle%3Drough%3BstrokeWidth%3D2%3BfillColor%3D%2395C5FC%3BarcSize%3D0%3Bsize%3D130%3BstrokeColor%3D%236c8ebf%3Bopacity%3D60%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-130%22%20y%3D%22290%22%20width%3D%22400%22%20height%3D%22200%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=solid;curveFitting=1;sketchStyle=rough;strokeWidth=2;opacity=30;arcSize=0;rotation=25;dashed=1;dashPattern=8 8;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-19">
+          <mxGeometry width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-18" value="" style="triangle;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=solid;curveFitting=1;sketchStyle=rough;strokeWidth=2;opacity=30;rotation=-65;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-19">
+          <mxGeometry x="25" y="21" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-25" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dparallelogram%3Bperimeter%3DparallelogramPerimeter%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfixedSize%3D1%3Brounded%3D1%3Bshadow%3D0%3Bglass%3D0%3Bsketch%3D1%3BfillWeight%3D1%3BhachureGap%3D15%3BhachureAngle%3D0%3Bjiggle%3D0%3BfillStyle%3Dsolid%3BcurveFitting%3D1%3BsketchStyle%3Drough%3BstrokeWidth%3D2%3BfillColor%3D%2395C5FC%3BarcSize%3D0%3Bsize%3D130%3BstrokeColor%3D%236c8ebf%3Bopacity%3D60%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-130%22%20y%3D%22290%22%20width%3D%22400%22%20height%3D%22200%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=auto;curveFitting=1;sketchStyle=rough;strokeWidth=2;opacity=30;arcSize=0;rotation=25;dashed=1;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-15">
+          <mxGeometry x="133.99727272727273" y="30.99909090909091" width="150" height="123.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-29" value="" style="group;dashed=1;dashPattern=8 8;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="650" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-21" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=solid;curveFitting=1;sketchStyle=rough;strokeWidth=2;fillColor=#cce5ff;opacity=30;strokeColor=#36393d;dashed=1;dashPattern=12 12;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-29">
+          <mxGeometry width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-22" value="" style="triangle;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=solid;curveFitting=1;sketchStyle=rough;strokeWidth=2;opacity=30;rotation=-90;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-29">
+          <mxGeometry x="45" y="33" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-250.00272727272727" y="247.9990909090909" width="150" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-27" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dparallelogram%3Bperimeter%3DparallelogramPerimeter%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfixedSize%3D1%3Brounded%3D1%3Bshadow%3D0%3Bglass%3D0%3Bsketch%3D1%3BfillWeight%3D1%3BhachureGap%3D15%3BhachureAngle%3D0%3Bjiggle%3D0%3BfillStyle%3Dsolid%3BcurveFitting%3D1%3BsketchStyle%3Drough%3BstrokeWidth%3D2%3BfillColor%3D%2395C5FC%3BarcSize%3D0%3Bsize%3D130%3BstrokeColor%3D%236c8ebf%3Bopacity%3D60%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-130%22%20y%3D%22290%22%20width%3D%22400%22%20height%3D%22200%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=auto;curveFitting=1;sketchStyle=rough;strokeWidth=2;opacity=30;arcSize=0;rotation=0;dashed=1;size=-9.99727272727273;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-30">
+          <mxGeometry width="150" height="123.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-28" value="" style="triangle;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=solid;curveFitting=1;sketchStyle=rough;strokeWidth=2;opacity=30;rotation=-90;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="0jhUq3wZA6vBDmHmhF1G-30">
+          <mxGeometry x="60.00272727272727" y="42.00090909090909" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-31" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#cce5ff;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="311.5" as="sourcePoint" />
+            <mxPoint x="-280" y="311.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-32" value="Spatial transformation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=12 12;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=auto;curveFitting=1;sketchStyle=rough;strokeWidth=2;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-33" value="Spatial transformation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=12 12;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=auto;curveFitting=1;sketchStyle=rough;strokeWidth=2;opacity=30;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="460" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-34" value="Local map" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=12 12;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=auto;curveFitting=1;sketchStyle=rough;strokeWidth=2;opacity=30;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="460" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-35" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=solid;curveFitting=1;sketchStyle=rough;strokeWidth=2;fontSize=14;fillColor=#ffcc99;opacity=30;strokeColor=#36393d;rotation=90;arcSize=0;size=55;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="264" width="260" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-37" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=solid;curveFitting=1;sketchStyle=rough;strokeWidth=2;fontSize=14;fillColor=#95C5FC;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="140" y="206" width="10" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="0jhUq3wZA6vBDmHmhF1G-38" value="Latent Context" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=12 12;sketch=1;fillWeight=1;hachureGap=15;hachureAngle=0;jiggle=0;fillStyle=auto;curveFitting=1;sketchStyle=rough;strokeWidth=2;opacity=30;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="460" width="105" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
