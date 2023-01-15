@@ -11,7 +11,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     fn = datetime.datetime.now().strftime("%Y-%m-%d") + '-' \
-            + args.title.replace(' ','') + '.md'
+            + args.title.replace(' ','-') + '.md'
 
     content = '---\n' + \
             'title: {}\n'.format(args.title) + \
