@@ -1,8 +1,8 @@
 ---
 title: Set up remote server for VScode
 date: 2023-01-10 14:30:00 +0800
-categories: [Ubuntu]
-tags: [ubuntu]     # TAG names should always be lowercase
+categories: [Productivity]
+tags: [vscode, ssh]     # TAG names should always be lowercase
 ---
 
 ## Setup key pair on remote server
