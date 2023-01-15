@@ -2,7 +2,7 @@
 title: Use multiple github account
 date: 2023-01-15 16:32:35 +0800
 categories: [Productivity]
-tags: [git, ssh]
+tags: [git,ssh]
 ---
 
 ### Setup key on github (optional)
